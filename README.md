@@ -1,7 +1,6 @@
 ## Hi, here, there and everywhere! 👋
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=walawalagoose&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-I'm an undergraduate student at Sichuan University. Recently, I've been looking for oppotunities to pursue my Msc. degree.
+I'm an undergraduate student at Sichuan University. I'm looking for oppotunities to pursue my Msc. degree.
 
 - 🔭 My research focuses on machine learning and data mining. Specifically, I aim to discover valuable insights from various types of data using artificial-intelligence learning tools and apply these findings in specific fields.
 <!--
@@ -22,3 +21,5 @@ I'm an undergraduate student at Sichuan University. Recently, I've been looking 
 - :ram: Founder the ObjCCN
 - :meat_on_bone: Meat lover
 -->
+
+<img align="mid" src="https://github-readme-stats.vercel.app/api?username=walawalagoose&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
