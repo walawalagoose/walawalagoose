@@ -2,7 +2,7 @@
 
 I'm an undergraduate student at Sichuan University. I'm looking for oppotunities to pursue my Msc. degree.
 
-- 🔭 My research focuses on machine learning and data mining. Specifically, I aim to discover valuable insights from various types of data using artificial-intelligence learning tools and apply these findings in specific fields.
+- 🔭 My research interest focuses on machine learning and data mining. Specifically, I aim to discover valuable insights from various types of data using artificial-intelligence learning tools and apply these findings in specific fields.
 <!--
 - 🌱 I’m currently learning information theory, convex optimization, and bayesian statistics.
 - 👯 I’m looking to collaborate on ...
