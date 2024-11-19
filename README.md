@@ -4,6 +4,7 @@ I'm an undergraduate student at Sichuan University. I'm looking for oppotunities
 
 - 🔭 My research interest focuses on machine learning and data mining. Specifically, I aim to discover valuable insights from various types of data using artificial-intelligence learning tools and apply these findings in specific fields.
 <!--
+- :orange_book: My skills includes: python, C++(for coding); latex, markdown(for writing); git, shell(for managing)
 - 🌱 I’m currently learning information theory, convex optimization, and bayesian statistics.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
