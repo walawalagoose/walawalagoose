@@ -1,4 +1,4 @@
-## Hi, here, there and everywhere! 👋
+## Hi, here, there, and everywhere! 👋
 
 I'm an undergraduate student at Sichuan University. I'm looking for oppotunities to pursue my Msc. degree.
 
