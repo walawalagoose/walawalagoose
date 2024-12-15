@@ -1,6 +1,6 @@
 ## Hi, here, there, and everywhere! 👋
 
-I'm an undergraduate student at Sichuan University. I am looking for oppotunities for my further study.
+I'm an undergraduate student at Sichuan University. I am looking for potential oppotunities for further study.
 
 - 🔭 My research interest focuses on machine learning and data mining. Specifically, I aim to discover valuable insights from various types of data using artificial-intelligence learning tools and apply these findings in specific fields. So far, I have been extensively involved in tasks spanning various fields, including **computer vision**, **recommendation systems**, **large language models**, **anomaly detection**, **multi-view clustering**, etc.
 <!--
