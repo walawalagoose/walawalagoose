@@ -2,9 +2,9 @@
 
 I'm an undergraduate student at Sichuan University. I am looking for potential oppotunities for further study.
 
-- 🔭 My research interest focuses on machine learning and data mining. Specifically, I aim to discover valuable insights from various types of data using artificial-intelligence learning tools and apply these findings in specific fields. So far, I have been extensively involved in tasks spanning various fields, including **computer Vision**, **recommendation Systems**, **large language models**, **anomaly detection**, **multi-view clustering**, etc.
-- 🌱 Recently, I've been working on the practice of vision language models (VLM) and the possibility of AI's intersection with other disciplines.
-- 📫 If you are seeking guidance/discussion oppotunity on career planning or educational development among peers, or interested in potential academic exchanges and collaborations, please feel free to [contact me](huangjiazhen1125@gmail.com).
+- 🔭 My research interest focuses on machine learning and data mining. Specifically, I aim to discover valuable insights from various types of data using artificial-intelligence learning tools and apply these findings in specific fields. So far, I have been extensively involved in tasks spanning various fields, including *computer vision*, *recommendation systems*, *large language models*, *anomaly detection*, *multi-view clustering*, etc.
+- 🌱 Recently, I've been working on _the practice of vision language models (VLM)_ and _the possibility of AI's intersection with other disciplines_.
+- 📫 If you are seeking guidance/discussion oppotunity on career planning or educational development among peers, or interested in potential academic exchanges and collaborations, please feel free to [contact me](huangjiazhen1125@gmail.com)!
 <!--
 - :orange_book: My skills includes: python, C++(for coding); latex, markdown(for writing); git, shell(for managing)
 - 🌱 I’m currently learning information theory, convex optimization, and bayesian statistics.
