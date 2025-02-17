@@ -6,14 +6,14 @@ I'm an undergraduate student at Sichuan University. I am looking for potential o
 - 🌱 Recently, I've been working on _the practice of vision language models (VLM)_ and _the possibility of AI's intersection with other disciplines_.
 - 📫 If you are seeking guidance/discussion oppotunity on career planning or educational development among peers, or interested in potential academic exchanges and collaborations, please feel free to [contact me](huangjiazhen1125@gmail.com)!
 <!--
+- ⚡ Fun fact: I'm a long-distance running enthusiast 🏃; Fan of Manchester United ⚽; music lover
 - :orange_book: My skills includes: python, C++(for coding); latex, markdown(for writing); git, shell(for managing)
 - 🌱 I’m currently learning information theory, convex optimization, and bayesian statistics.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: If you are seeking guidance/discussion oppotunity on career planning or educational development among peers, or interested in potential academic exchanges and collaborations, please contact me via .
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: 
 
 
 
