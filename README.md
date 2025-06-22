@@ -2,8 +2,8 @@
 
 I'm an undergraduate student at Sichuan University. I am looking for potential oppotunities for further study (either MPhil or PhD).
 
-- 🔭 My research interest focuses on machine learning and data mining. Specifically, I aim to discover valuable insights from various types of data using artificial-intelligence learning tools and apply these findings in specific fields. So far, I have been extensively involved in tasks spanning various fields, including *computer vision*, *recommendation systems*, *large language models*, *anomaly detection*, *multi-view clustering*, etc.
-- 🌱 Recently, I've been working on _the practice of vision language models (VLM)_, _potential solutions to the out-of-distribution problem_, and _the interdisciplinary exploration with AI techniques_.
+- 🔭 My research interest focuses on machine learning and data mining. Specifically, I aim to discover valuable insights from various types of data using artificial-intelligence learning tools and apply these findings in specific fields. So far, I have been extensively involved in tasks spanning various fields, including *computer vision*, *multimodal learning*, *recommendation systems*, *large language models*, etc.
+- 🌱 Recently, I've been working on _the practice of multimodal large language model_, _potential solutions to the out-of-distribution problem_, and _the interdisciplinary exploration with AI techniques_.
 - 📫 If you are seeking guidance/discussion oppotunity on career planning or educational development among peers, or interested in potential academic exchanges and collaborations, please feel free to [contact me](huangjiazhen1125@gmail.com)!
 - ⚡ Fun fact: I'm a long-distance running enthusiast 🏃, fan of Manchester United ⚽; I also hope to become an outstanding amateur baritone singer or guitarist 🎵
 <!--
