@@ -1,6 +1,6 @@
 ## Hi, here, there, and everywhere! 👋
 
-I'm an undergraduate student. I’m looking for further study opportunities this fall.
+I'm an undergraduate student, looking for further study opportunities this fall.
 
 - 🔭 My research interest focuses on machine learning and data mining. Specifically, I aim to discover valuable insights from various types of data using artificial-intelligence learning tools and apply these findings in specific fields. So far, I have been extensively involved in tasks spanning various fields, including *computer vision*, *multimodal learning*, *recommendation systems*, *large language models*, etc.
 - 🌱 Recently, I've been working on _the practice of multimodal large language model_, _potential solutions to the out-of-distribution problem_, and _the interdisciplinary exploration with AI techniques_.
