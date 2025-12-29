@@ -30,3 +30,11 @@ to pursue my Msc. degree.
 
 
 <img align="mid" src="https://github-readme-stats.vercel.app/api?username=walawalagoose&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+<!--
+<div style="display:flex;flex-direction:row;justify-content:center;">
+    <img height="140"  src="https://streak-stats.demolab.com/?user=walawalagoose&count private=true&theme=react&border_radius-10" alt="streak stats" style="margin: 0" />
+  <img height="140"  src="https://github-readme-stats-salesp07.vercel.app/api?username=walawalagoose&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=5" alt="readme stats" style="margin: 0" /> 
+  <img height="140"  src="https://github-readme-stats.vercel.app/api?username=walawalagoose&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" style="margin: 0" />
+</div>
+-->
