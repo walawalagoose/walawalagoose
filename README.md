@@ -7,8 +7,11 @@ I'm an undergraduate student. I will continue my graduate career at [Tsinghua Un
 - 📫 If you are seeking guidance/discussion oppotunity on career planning or educational development among peers, or interested in potential academic exchanges and collaborations, please feel free to [contact me](huangjiazhen1125@gmail.com).
 - ⚡ Fun fact: I'm a long-distance running enthusiast 🏃, fan of Manchester United ⚽; I also hope to become an outstanding amateur baritone singer or guitarist 🎵
 
+<!--
 ![GitHubCard](https://githubcard.com/walawalagoose.svg?d=kn0Efo7D)
-  
+-->
+
+
 <!--
 - :orange_book: My skills includes: python, C++(for coding); latex, markdown(for writing); git, shell(for managing)
 - 🌱 I’m currently learning information theory, convex optimization, and bayesian statistics.
