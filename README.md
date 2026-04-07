@@ -1,6 +1,6 @@
 ## Hi, here, there, and everywhere! 👋
 
-I'm an undergraduate student. I will continue my graduate career at [Tsinghua University](https://www.tsinghua.edu.cn/).
+I'm a graduate student at [Tsinghua University](https://www.tsinghua.edu.cn/).
 
 - 🔭 My research interest focuses on machine learning and data mining. Specifically, I aim to discover valuable insights from various modalities of data from a statistical, data-centric viewpoint, designing algorithms and architectures to apply these findings in specific down-streaming tasks.  So far, I've been involved in tasks spanning several fields, including *computer vision*, *multimodal learning*, *large language models*, and *recommendation systems*.
 - 🌱 Recently, I've been working on: 1) _the practice of multimodal large language models (MLLMs/VLMs)_; 2) _model post-training under realistic scenarios (e.g., non-i.i.d. data streams, limited classes, noisy labels)_; and 3) _interdisciplinary exploration with AI techniques_.
